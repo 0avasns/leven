@@ -13,4 +13,4 @@ The code was based on the [algorithm from Wikipedia](http://en.wikipedia.org/wik
 
 Calculation of distances for large sets of items is very time consuming; this code is highly optimized and **a lot** faster than plain coding of the algorithm.  
 
-The code was uploaded to github after many years to facilitate discoverability and accessibility. It has long been [available](http://speech.ilsp.gr/iplr/leven-c.rar) via the [ILSP](https://www.ilsp.gr/en/home-2/) [IPLR](http://speech.ilsp.gr/iplr/index.htm) [downloads page](http://speech.ilsp.gr/iplr/downloads.htm). An optimized Windows executable (rar-archived) can also be [downloaded](http://speech.ilsp.gr/iplr/leven.rar) from there.
+The code was uploaded to github after many years to facilitate discoverability and accessibility. It has long been [available](http://speech.ilsp.gr/iplr/leven-c.rar) via the [ILSP](https://www.ilsp.gr/en/home-2/) [IPLR](http://speech.ilsp.gr/iplr/index.htm) [downloads page](http://speech.ilsp.gr/iplr/downloads.htm). An optimized Windows executable (rar-archived) can also be downloaded [from there](http://speech.ilsp.gr/iplr/leven.rar) or from here under Releases.
