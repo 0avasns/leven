@@ -5,8 +5,7 @@ Athanassios Protopapas
 Institute for Language & Speech Processing, February 2011  
 Uploaded to github in February 2025  
 
-This is optimized C code that calculates mean Levenshtein distances for a set of target items relative to a reference lexicon.  
-Item files must have been preprocessed to remove nonletter characters and convert to lowercase (for orthographic strings).  
+This is optimized C code that calculates mean Levenshtein distances for a set of target items relative to a reference lexicon. Item files must have been preprocessed to remove nonletter characters and convert to lowercase (for orthographic strings).  
 
 Compile with: `gcc -O9 -o levencmd leven.c`
 
